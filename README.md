@@ -8,3 +8,7 @@ About this webpage---->
 • Allows marking items as favourites with the heart icon  .
 • Uses Font Awesome icons for intuitive cart and favourites actions.
 • Designed to be responsive for optimal viewing on mobile and desktop.
+
+![Uploading Screenshot 2024-09-07 210502.png…]()
+![Uploading Screenshot 2024-09-07 210611.png…]()
+![Uploading Screenshot 2024-09-07 210812.png…]()
